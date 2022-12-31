@@ -3,8 +3,8 @@
  
  📚 Ementa
  
- ▪️ Módulo 01
- ✅ Prática antes da programação orientada a objetos
+ ▪️ Módulo 01<br>
+ ✅ Prática antes da programação orientada a objetos<br>
  ✅ Ideia central da programação orientada a objetos
 
  ▪️ Módulo 02
